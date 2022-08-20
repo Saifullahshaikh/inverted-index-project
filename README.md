@@ -14,4 +14,5 @@ keep all files in same folder
 8. For word Level Inverted Index press 5. 
 9. And 6 for exit.
 
-Note: you can test it on your own text files format should be .txt add documents by eriteing the name of file 1 by 1 only add those files for which you want to create inverted index keep all the files in same folder
+# Note 
+      you can test it on your own text files format should be .txt add documents by eriteing the name of file 1 by 1 only add those files for which you want to create inverted index keep all the files in same folder
